@@ -11,7 +11,7 @@ public class VariaveisConstantes {
 		float degree = 20.5f;
 		boolean answer;        // true/false
 		
-		//Constantes
+		//Constantes - por boas práticas, colocamos em maiúsculas
 		final int QUANTITY = 50;
 		final String CLASS = "Turma 84";
 		final double AREA = 3.1415;

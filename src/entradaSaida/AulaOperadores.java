@@ -19,7 +19,9 @@ public class AulaOperadores {
 		fahrenheit = celsius * 1.8f + 32;
 		
 		// Saida de dados
+
 		System.out.println("Temperatura em Fahrenjeit: " + fahrenheit);
+
 		
 		
 

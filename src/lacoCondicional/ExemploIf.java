@@ -1,0 +1,21 @@
+package lacoCondicional;
+
+import java.util.Scanner;
+
+public class ExemploIf {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner leia = new Scanner(System.in);
+		int idade; 
+		
+		System.out.println("Digite sua idade: ");
+		idade = leia.nextInt();
+		
+		if(idade < 18) {
+			System.out.println("Você não pode dirigir");
+		} 
+
+	}
+
+}
